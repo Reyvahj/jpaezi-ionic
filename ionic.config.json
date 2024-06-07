@@ -1,0 +1,7 @@
+{
+  "name": "calavera-seguridad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
